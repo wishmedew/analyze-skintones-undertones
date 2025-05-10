@@ -11,14 +11,9 @@ Before installing, ensure you have the following installed:
 ### Clone this project
 
 ```shell
-git clone https://github.com/PutterZaX/Project-CS403.git
+git clone https://github.com/wishmedew/analyze-skintones-undertones.git
 ```
 
-### or alternative
-
-```shell
-git clone https://github.com/ComSciThammasatU/2567-1-cs403-final-submission-66-2_16_scw-s2.git
-```
 
 ### Install Python dependencies Install the required Python libraries:
 
