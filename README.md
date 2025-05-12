@@ -36,3 +36,9 @@ npm install
 npm run dev
 ```
 
+
+### Exemple
+```shell
+https://github.com/user-attachments/assets/7dc7c0d9-3b77-41c6-94ec-7d8837d2a70b
+```
+
